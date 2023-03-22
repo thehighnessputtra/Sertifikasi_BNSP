@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649936591251",
+    "project_id": "bnsp-sertifikasi",
+    "storage_bucket": "bnsp-sertifikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649936591251:android:32bc3d945b8a86125eb066",
+        "android_client_info": {
+          "package_name": "com.example.latihan_bnsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649936591251-4s8ievj12vp96mcrdk7bn1r5tbdipds1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwGhN14poS3MfNee1j7JdT7OJFBTrEaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649936591251-4s8ievj12vp96mcrdk7bn1r5tbdipds1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
